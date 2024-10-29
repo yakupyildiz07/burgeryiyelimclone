@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/burgeryiyelimclone/static/css/main.ff2be61b.css",
-    "main.js": "/burgeryiyelimclone/static/js/main.5e590954.js",
-    "static/js/453.9b1f0f11.chunk.js": "/burgeryiyelimclone/static/js/453.9b1f0f11.chunk.js",
+    "main.js": "/burgeryiyelimclone/static/js/main.a2cff579.js",
+    "static/js/453.df8d7de0.chunk.js": "/burgeryiyelimclone/static/js/453.df8d7de0.chunk.js",
     "static/media/banner.png": "/burgeryiyelimclone/static/media/banner.57fa383005506aceb225.png",
     "static/media/banneryeni.jpg": "/burgeryiyelimclone/static/media/banneryeni.c76334f1e7458eac951e.jpg",
     "static/media/burger.jpg": "/burgeryiyelimclone/static/media/burger.0a7078db538aca4df2fe.jpg",
     "static/media/burgerlogo.png": "/burgeryiyelimclone/static/media/burgerlogo.59f6eaddfc098a62c68b.png",
     "index.html": "/burgeryiyelimclone/index.html",
     "main.ff2be61b.css.map": "/burgeryiyelimclone/static/css/main.ff2be61b.css.map",
-    "main.5e590954.js.map": "/burgeryiyelimclone/static/js/main.5e590954.js.map",
-    "453.9b1f0f11.chunk.js.map": "/burgeryiyelimclone/static/js/453.9b1f0f11.chunk.js.map"
+    "main.a2cff579.js.map": "/burgeryiyelimclone/static/js/main.a2cff579.js.map",
+    "453.df8d7de0.chunk.js.map": "/burgeryiyelimclone/static/js/453.df8d7de0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff2be61b.css",
-    "static/js/main.5e590954.js"
+    "static/js/main.a2cff579.js"
   ]
 }
