@@ -12,7 +12,7 @@ function App() {
       <NavBar />
 
       <Routes>
-        <Route path="/" exact element={<Home />} />
+        <Route path="/burgeryiyelimclone" exact element={<Home />} />
         <Route path="/menu" exact element={<Menu />} />
         <Route path="/contact" exact element={<Contact />} />
         <Route path="/about" exact element={<About />} />
