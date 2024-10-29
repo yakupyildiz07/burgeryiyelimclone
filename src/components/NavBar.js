@@ -7,7 +7,7 @@ function NavBar() {
       <div className="main">
 <img src={BurgerLogo} alt="" />
 <div className="mainlink">
-    <NavLink to="/" >Anasayfa</NavLink>
+    <NavLink to="/burgeryiyelimclone" >Anasayfa</NavLink>
     <NavLink to="/menu" >Menü</NavLink>
     <NavLink to="/contact" >İletişim</NavLink>
     <NavLink to="/about" >Hakkımızda</NavLink>
