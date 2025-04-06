@@ -12,7 +12,7 @@ This project is a clone of the "burgeryiyelim.com", website developed using Reac
 
 ## 🚀 Live Demo
 
-👉 [View the project live]([https://yakupyildiz07.github.io](https://yakupyildiz07.github.io/burgeryiyelimclone/)
+👉 [View the project live](https://yakupyildiz07.github.io/burgeryiyelimclone/)
 
 ## 🏃 How to Run
 
