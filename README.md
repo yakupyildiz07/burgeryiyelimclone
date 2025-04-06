@@ -2,7 +2,6 @@
 
 This project is a clone of the "burgeryiyelim.com", website developed using React and JavaScript. The UI/UX design is created using Material UI. 
 
-**To View the Live Project:** [Click Here](https://yakupyildiz07.github.io/burgeryiyelimclone/)
 
 ## 🚀 Technologies Used
 
@@ -10,6 +9,10 @@ This project is a clone of the "burgeryiyelim.com", website developed using Reac
 - JavaScript
 - Material-UI
 - React Router
+
+## 🚀 Live Demo
+
+👉 [View the project live]([https://yakupyildiz07.github.io](https://yakupyildiz07.github.io/burgeryiyelimclone/)
 
 ## 🏃 How to Run
 
